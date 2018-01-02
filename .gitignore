@@ -1,3 +1,4 @@
 *.gif
 *.png
 *.ipynb_checkpoints
+*stocks/
