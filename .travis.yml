@@ -5,9 +5,8 @@ julia:
   - 1.0
 notifications:
   email: true
-after_success:
+script:
   - julia -e 'include("make.jl")'
-
 # use examples/docs to produce gh-pages website
 deploy:
   provider: pages

@@ -1,5 +1,5 @@
 using Reproducible, Glob
 
-for file in glob("*.jl")
+for file in glob("*.md")
     Reproducible.build(file; toc = true)
 end
