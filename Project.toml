@@ -2,4 +2,5 @@
 Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
 Literate = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
 OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 Reproducible = "74acc403-992c-5bc5-99bd-1528790dac51"

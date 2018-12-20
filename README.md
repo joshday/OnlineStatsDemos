@@ -1,3 +1,3 @@
 # OnlineStatsDemos
 
-1. [OnlineStats Tutorial](onlinestats_tutorial.md)
+1. [OnlineStats Tour](onlinestats_tour.md)
