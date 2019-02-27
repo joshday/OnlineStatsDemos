@@ -8,10 +8,10 @@ notifications:
 script:
   - julia -e 'using Pkg; Pkg.instantiate(); include("make.jl")'
 # use examples/docs to produce gh-pages website
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  local-dir: build
-  on:
-    branch: master
+# deploy:
+#   provider: pages
+#   skip-cleanup: true
+#   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+#   local-dir: build
+#   on:
+#     branch: master
