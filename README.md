@@ -1,3 +1,3 @@
 # OnlineStatsDemos
 
-1. [OnlineStats Tour](onlinestats_tour.md)
+See the `notebooks` directory for updated demos!
