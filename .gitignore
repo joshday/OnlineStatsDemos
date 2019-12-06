@@ -3,3 +3,4 @@
 *.ipynb_checkpoints
 *stocks/
 YearPredictionMSD.txt
+*.DS_Store
